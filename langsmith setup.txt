@@ -1,0 +1,4 @@
+LANGSMITH_TRACING_V2 = true
+LANGSMITH_ENDPOINT = "https://api.smith.langchain.com"
+LANGSMITH_API_KEY = "" Your API Key
+LANGSMITH_PROJECT = "my_rag_project"   # Project Name
